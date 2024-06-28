@@ -437,5 +437,3 @@ Shader "PeerPlay/RayMarch"
         }
     }
 }
-
-/Users/charliezhao/.vscode-dotnet-sdk/.dotnet /opt/local/bin /opt/local/sbin /opt/homebrew/bin /opt/homebrew/sbin /Library/Frameworks/Python.framework/Versions/3.12/bin /usr/local/bin /System/Cryptexes/App/usr/bin /usr/bin /bin /usr/sbin /sbin /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin /usr/local/share/dotnet ~/.dotnet/tools /Library/Frameworks/Mono.framework/Versions/Current/Commands /Users/charliezhao/.vscode-dotnet-sdk/.dotnet /Users/charliezhao/anaconda3/bin /Users/charliezhao/anaconda3/condabin /opt/local/bin /opt/local/sbin /opt/homebrew/bin /opt/homebrew/sbin /Library/Frameworks/Python.framework/Versions/3.12/bin
